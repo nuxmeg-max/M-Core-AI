@@ -1,0 +1,9 @@
+{
+  "name": "m-core-ai",
+  "version": "1.0.0",
+  "description": "The Savage Gen Z AI Engine by MEG Official",
+  "main": "index.js",
+  "type": "module",
+  "author": "MEG Official",
+  "license": "MIT"
+}
